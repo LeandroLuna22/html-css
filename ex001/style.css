@@ -1,0 +1,31 @@
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: 10;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: Haettenschweiler;
+    color: rgb(14, 14, 116);
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font-family: Haettenschweiler;
+    color: rgb(20, 75, 7);
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.paragrafo1 {
+    font-family: Haettenschweiler;
+    color: rgb(80, 3, 3);
+    font-weight: bold;
+    font-size: 32px;
+}

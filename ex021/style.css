@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+    padding: 5px;
+}
+
+header > h1 {
+    margin: 0px;
+}
+
+nav > a {
+    text-decoration: none;
+    margin: 30px;
+    text-align: left;
+}
+
+main {
+    background-color: white;
+    padding: 15px;
+    margin: 0px 15% 0px 15%;
+    text-align: justify;
+}
+
+main > h1 {
+    margin: 0px;
+}
+
+footer {
+    background-color: darkgreen;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+footer > p {
+    margin: 0px;
+}
